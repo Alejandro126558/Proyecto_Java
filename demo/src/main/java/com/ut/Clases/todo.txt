@@ -1,0 +1,1 @@
+En el siguiente folder cada uno debe realizar una clase diferente en java, esta clase debe contener, constructores, get, set y un tostring
