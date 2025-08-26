@@ -19,8 +19,15 @@ public class Moto {
         año = 2001;
         estado = false;
     }
-    public Moto(Boolean combustible){
+    public Moto(Boolean combustible, String cilindraje, String marca, String color, Integer año, Boolean estado){
         this.combustible = combustible;
+        this.cilindraje = cilindraje;
+        this.marca = marca;
+        this.color = color;
+        this.año = año;
+        this.estado = estado;
     }
+    
+
     
 }
